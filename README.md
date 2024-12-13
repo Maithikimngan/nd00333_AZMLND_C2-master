@@ -14,7 +14,7 @@ In this project, I will work with the Bank Marketing dataset to run the model. U
 
 
 
-# 1. AutoML process
+### 1. AutoML process
 1.1 Dataset upload to Azure Machine Learning Studio
 
 
@@ -31,7 +31,7 @@ In this project, I will work with the Bank Marketing dataset to run the model. U
 ![image](https://github.com/user-attachments/assets/a6e7b206-4bd1-4ede-aaf6-581db559d14a)
 
 
-# 2. Deploy the best model
+### 2. Deploy the best model
 2.1 The best model deployment is Voting Ensemble
 
 ![image](https://github.com/user-attachments/assets/4e178691-e212-4507-91ad-b67ee5ab207a)
@@ -49,7 +49,7 @@ In this project, I will work with the Bank Marketing dataset to run the model. U
 
 
 
-# 3. Consume endpoint
+### 3. Consume endpoint
 3.1 Swagger documentation
 
 Run the swagger as screen below
@@ -63,7 +63,7 @@ Run the swagger as screen below
 ![image](https://github.com/user-attachments/assets/f84e21ae-3a65-4fbd-84d3-16965bff26a9)
 
 
-4. Publish the pipelines
+### 4. Publish the pipelines
    
 4.1 Pipeline created
 
