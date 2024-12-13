@@ -1,9 +1,8 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
 
 
 # MACHINE LEARNING PROJECT 2
 
-In this project, I will work with the Bank Marketing dataset to apply machine learning techniques. Using Azure, I will set up a cloud-based machine learning model, deploy it, and make it available for use. Additionally, I will create and publish a pipeline for automating the machine learning workflow. This project demonstrates my skills in using AutoML, deploying the best model, enabling logging for monitoring, creating Swagger documentation for APIs, and consuming model endpoints effectively. Through these tasks, I will showcase my ability to build, deploy, and manage machine learning solutions.
+In this project, I will work with the Bank Marketing dataset to run the model. Using Azure Machine Learning Studio, I will deploy the model. I will create and publish a pipeline. This project shows my skills in using AutoML, deploying the best model, enabling logging for monitoring, creating Swagger documentation for APIs, and consuming model endpoints effectively. I have already deploy the endpoint and run it already.
 
 ## Architectural Diagram
 
