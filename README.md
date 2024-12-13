@@ -1,15 +1,18 @@
 *NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
 
 
-# Your Project Title Here
+# MACHINE LEARNING PROJECT 2
 
-*TODO:* Write an overview to your project.
+In this project, I will work with the Bank Marketing dataset to apply machine learning techniques. Using Azure, I will set up a cloud-based machine learning model, deploy it, and make it available for use. Additionally, I will create and publish a pipeline for automating the machine learning workflow. This project demonstrates my skills in using AutoML, deploying the best model, enabling logging for monitoring, creating Swagger documentation for APIs, and consuming model endpoints effectively. Through these tasks, I will showcase my ability to build, deploy, and manage machine learning solutions.
 
 ## Architectural Diagram
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
+![image](https://github.com/user-attachments/assets/b60dd01d-e729-44eb-ab15-451972dcab7e)
+
 
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
+
 
 
 1. AutoML preparation
