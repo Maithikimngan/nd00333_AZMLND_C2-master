@@ -96,7 +96,9 @@ Run the swagger as screen below
 
 
 
-
+## Standout Suggestions
+- Test a local container with a downloaded model: Run machine learning model in a local container to ensure it works correctly before production.
+- Export model to support ONNX: Convert model to ONNX format for compatibility across various platforms and tools.
 
 
 ## Screen Recording
