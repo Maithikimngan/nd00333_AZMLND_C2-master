@@ -46,6 +46,9 @@ In this project, I will work with the Bank Marketing dataset to run the model. U
 
 ![image](https://github.com/user-attachments/assets/cbe0cddf-2c23-4402-92b3-53a8da785fae)
 
+Run the logs.py
+
+![image](https://github.com/user-attachments/assets/ac726032-ab6e-4760-9240-86a69c2ae003)
 
 
 
@@ -75,12 +78,16 @@ Run the swagger as screen below
 
 ![image](https://github.com/user-attachments/assets/f66f089a-a80f-4913-a560-f1519445cb93)
 
+4.3 The Bankmarketing dataset with the AutoML module
 
-4.3 Public pipeline
+![image](https://github.com/user-attachments/assets/c977c221-cb05-4890-8853-8f8cfad127ab)
+
+
+4.4 Public pipeline
 
 ![image](https://github.com/user-attachments/assets/3eecce8f-c294-46db-abf3-2a527135ef3f)
 
-4.4 Pipeline run in notebook
+4.5 Pipeline run in notebook
 
 ![image](https://github.com/user-attachments/assets/80b45832-f16c-4d88-b6ed-3aca5ff6e286)
 
