@@ -72,13 +72,13 @@ Run the swagger as screen below
    
 4.1 Pipeline created
 
-![image](https://github.com/user-attachments/assets/8c02e92c-6fcc-404a-b5e4-1d76dea0601b)
-
+![image](https://github.com/user-attachments/assets/8e60081a-bfa0-4568-9175-7295c4fd770d)
 
 
 4.2 Pipeline endpoint
 
-![image](https://github.com/user-attachments/assets/f66f089a-a80f-4913-a560-f1519445cb93)
+![image](https://github.com/user-attachments/assets/81e18bef-2a47-4e96-95e7-fc0357584edd)
+
 
 4.3 The Bankmarketing dataset with the AutoML module
 
