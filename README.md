@@ -17,23 +17,26 @@ In this project, I will work with the Bank Marketing dataset to run the model. U
 ### 1. AutoML process
 1.1 Dataset upload to Azure Machine Learning Studio
 
-![image](https://github.com/user-attachments/assets/93aa30ea-3bb5-40eb-a162-220488fa9188)
+![image](https://github.com/user-attachments/assets/5ab9e360-bfb1-4fff-bfdd-b9fd4f8478d6)
 
 
-1.2 Compute cluster resource
+1.2 Compute cluster resource is available
 
-![image](https://github.com/user-attachments/assets/15f8a592-bc59-4e11-826b-c8fc62c827c7)
+![image](https://github.com/user-attachments/assets/d469e73c-819a-4e32-905b-d10dd765719a)
 
 
 1.3 Experiment submit
 
-![image](https://github.com/user-attachments/assets/a6e7b206-4bd1-4ede-aaf6-581db559d14a)
+![image](https://github.com/user-attachments/assets/afe88900-c098-4577-8b83-66089e530761)
 
 
 ### 2. Deploy the best model
 2.1 The best model deployment is Voting Ensemble
+- The best model is Voting Ensemble
+- The accuracy is around 95%
+- The model is already registered and deployed.
 
-![image](https://github.com/user-attachments/assets/4e178691-e212-4507-91ad-b67ee5ab207a)
+![image](https://github.com/user-attachments/assets/0220ead2-3a6d-4c2e-ab07-b618910ec698)
 
 
 
