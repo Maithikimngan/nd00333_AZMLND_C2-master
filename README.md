@@ -17,7 +17,6 @@ In this project, I will work with the Bank Marketing dataset to run the model. U
 ### 1. AutoML process
 1.1 Dataset upload to Azure Machine Learning Studio
 
-
 ![image](https://github.com/user-attachments/assets/93aa30ea-3bb5-40eb-a162-220488fa9188)
 
 
@@ -39,12 +38,12 @@ In this project, I will work with the Bank Marketing dataset to run the model. U
 
 
 2.2 The application Insights is enable 
+- The deployment status is healthy
+![image](https://github.com/user-attachments/assets/eceaa482-a6e4-4fc4-b20f-5826459913cb)
 
+- The application insights is enable
+![image](https://github.com/user-attachments/assets/6ac0b6c1-8454-4635-a894-a8812ecfe910)
 
-![image](https://github.com/user-attachments/assets/a3951509-1fae-4ffc-96b3-a355b9cd4ac5)
-
-
-![image](https://github.com/user-attachments/assets/cbe0cddf-2c23-4402-92b3-53a8da785fae)
 
 Run the logs.py
 
@@ -85,7 +84,8 @@ Run the swagger as screen below
 
 4.4 Public pipeline
 
-![image](https://github.com/user-attachments/assets/3eecce8f-c294-46db-abf3-2a527135ef3f)
+![image](https://github.com/user-attachments/assets/afcdfd9c-0d67-4e65-b2f9-7596daa50949)
+
 
 4.5 Pipeline run in notebook
 
