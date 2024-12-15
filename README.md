@@ -102,5 +102,5 @@ Run the swagger as screen below
 
 
 ## Screen Recording
-https://youtu.be/RlfiMTDtkCg
-
+Please select quality 720p for better quality
+https://youtu.be/f8VjPFDr2CM
